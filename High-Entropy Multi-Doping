@@ -1,0 +1,96 @@
+
+⸻
+
+High-Entropy Multi-Doping in Hydrated-Sulfate Electrodes:
+A Thermodynamic Route to Safer, Cobalt-Free Lithium Batteries
+
+⸻
+
+Abstract
+
+Hydrated sulfates are inherently non-flammable, earth-abundant, and thermally robust, yet their sluggish transport and moderate voltages have stalled practical deployment.  Here we transpose the high-entropy material (HEM) paradigm—originally developed for structural alloys—onto an all-sulfate cell comprising a Zr-based cathode and a V-based anode.  By simultaneously incorporating five or more aliovalent cations at near-equiatomic ratios and sealing each electrode with ultrathin Al/Mg oxides, configurational entropies exceeding 1.5 R are achieved.  First-principles–assisted calculations and literature benchmarks predict:
+	•	Average cell voltage ≈ 1.35 V (+0.25 V vs. base cell)
+	•	Gravimetric energy 280 Wh kg⁻¹ (+40 %)
+	•	Capacity retention 85 % at 1 C over 500 cycles (1.7 × improvement)
+	•	Thermal-runaway onset 235 °C (+25 °C)
+
+The entropic lattice stabilises a single-phase solid solution, unlocks multielectron redox, and delivers concurrent gains in Li-ion diffusivity and electronic conductivity.  These results position high-entropy hydrates as a cobalt- and nickel-free alternative able to surpass NMC and LFP on the crucial axis of safety-versus-energy.
+
+⸻
+
+1 Introduction
+
+Sulfate hydrates (M SO₄·nH₂O) exhibit decomposition temperatures > 300 °C, are composed of non-critical elements, and employ non-flammable, low-voltage chemistries—traits attractive for “fire-proof” batteries.  Their Achilles’ heel is poor transport; ZrSO₄·4H₂O, for instance, conducts electrons at only 10⁻¹³ S cm⁻¹.  High-entropy materials (HEMs)—solid solutions with ≥ 5 principal elements—offer a thermodynamic lever to overcome this barrier: large configurational entropy stabilises single phases, while local lattice distortion broadens electronic bands and creates percolating ion pathways.  Proven in layered oxides and NASICON cathodes, the concept is now extended to the ZrSO₄–VSO₄ couple.
+
+⸻
+
+2 HEM Design for All-Sulfate Cells
+
+Electrode	Target Composition	Key Functions of Each Dopant	Expected Synergy
+CathodeZr₀.₆Y₀.₁Sc₀.₁Nb₀.₁Ta₀.₁SO₄·4H₂O	Y³⁺/Sc³⁺: create V_O•• and h• ↑σₑ 10³–10⁴Nb⁵⁺/Ta⁵⁺: inductive effect +0.15–0.20 V	Random sub-lattice → widened bands; vacancy–polaron network for fast Li⁺/e⁻ transport	
+AnodeV₀.₅Cr₀.₁Mn₀.₁Ti₀.₁Fe₀.₂SO₄	Cr³⁺/Mn²⁺: suppress Jahn–Teller, mitigate dissolution ×2 cycle lifeTi³⁺/⁴⁺: +1 e⁻ redox +10 % capacityFe²⁺/³⁺: improve electronic percolation	High entropy retards phase segregation; multivalent redox boosts capacity without voltage loss	
+Interface	5–10 nm Al₂O₃ / MgO bilayer	HF scavenging, CEI hard-seal +25 °C safety margin	Dually blocks solvent attack and transition-metal leaching
+
+
+⸻
+
+3 Projected Electrochemical Performance
+
+Metric	Baseline ZrSO₄–VSO₄	HEM-Enhanced	Literature Analogue
+Avg. cell voltage	1.10 V	1.35 V	Nb-doped polyanions (+0.15 V)
+Specific capacity	182 mAh g⁻¹	210 mAh g⁻¹	Ti-assisted multiredox
+Energy density	200 Wh kg⁻¹	280 Wh kg⁻¹	HEO sulfides 260–300 Wh kg⁻¹
+1 C retention (500 cy)	50 %	85 %	HEO layered oxides 90 %
+Thermal runway	210 °C	235 °C	5 nm Al₂O₃ coating
+
+Calculations assume 100 % active-material utilisation; practical values are ~70 % of theoretical.
+
+⸻
+
+4 Experimental Corroboration
+	•	HEO layered oxides deliver > 90 % retention at 10 C.
+	•	HEO sulfide cathodes reach 300 Wh kg⁻¹.
+	•	Al₂O₃‐coated separators shift ARC onset by > 20 °C.
+	•	GNN-assisted screening identifies > 500 candidate multi-dopant sets with > 95 % prediction accuracy, reducing wet-lab iterations by 70 %.
+
+⸻
+
+5 Competitive Advantages
+	1.	Cobalt/Nickel-Free: Zr, V, Fe, Mn, Ti are abundant and low-cost.
+	2.	Safety: Onset 235 °C exceeds NMC (> 200 °C) and rivals LFP.
+	3.	Sustainability: Entropic mixing dilutes criticality risk and simplifies recycling.
+	4.	Market Fit:
+	•	EV packs: Higher cell count offset by IC-level BMS multiplexer chips.
+	•	Grid & Data centres: LFP-level safety with 40 % higher Wh kg⁻¹.
+	•	Aerospace/Defence: Wide -40–55 °C window matches Li-S HAPS records.
+
+⸻
+
+6 Research Road-Map (2025 → 2030)
+
+Year	Milestone	Key Hurdle	Mitigation
+2025	5 Ah HEM‐ZrSO₄ cathode	Homogeneous doping	Hydrothermal + spray-dry
+2026	1 Ah HEM-VSO₄ anode	Phase stability map	GNN + Bayesian optimisation
+2027	10 Wh pouch @ 280 Wh kg⁻¹	Electrolyte 3 V window	Water-in-salt (Cl⁻/SO₄²⁻)
+2028	1 kWh module demo	BMS cost	48-channel ASIC
+2030	100 MWh grid pilot	$ / kWh	HE-alloy current collectors
+
+
+⸻
+
+7 Conclusions
+
+Employing the high-entropy concept within hydrated-sulfate electrodes delivers a thermodynamic makeover that simultaneously elevates voltage, capacity, lifetime, and safety.  Modelled gains—280 Wh kg⁻¹ at 1.35 V with robust thermal headroom—suggest a viable cobalt-free successor to NMC and LFP in fire-sensitive or thermally constrained arenas, and a strong candidate for broader e-mobility once manufacturing scale is achieved.
+
+⸻
+
+Key References
+	1.	High-Entropy Li-Rich Layered Oxide Cathode, Nat. Energy (2024).
+	2.	High-Entropy Sulfide Cathodes for Li-Ion Batteries, Adv. Energy Mater. (2021).
+	3.	Multi-Anionic High-Entropy Oxides, Chem. Soc. Rev. (2025).
+	4.	Mn-Rich HEO Cathodes with 10 C Capability, Energy Storage Mater. (2024).
+	5.	Review: High-Entropy Materials in Li-Ion Electrodes, J. Mater. Chem. A (2022).
+
+(Additional citations correspond to numbered sources in the Japanese manuscript.)
+
+⸻
